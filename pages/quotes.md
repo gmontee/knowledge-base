@@ -12,3 +12,5 @@ Hick's Law: The effort required to make a decision increases with the number of 
 Brandolini's Law: The amount of effort required to debunk misinformation is orders of magnitudes higher than the amount of effort required to create it. This is why misinformation is widely spread on the internet. "A lie can run around the world six times while the truth is still trying to put on it's pants" - Mark Twain
 
 Decoy Effect: asymmetric numbers can influence our perception of what is acceptable, e.g., movie theater popcorn pricing strategies
+
+"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live." - [Martin Golding](https://scholars.duke.edu/person/golding)
